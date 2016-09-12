@@ -20,7 +20,7 @@ permalink: /resume/
  - 工作年限：6年
  - 技术博客：http://bennywang.github.io
  - GitHub：http://github.com/BennyWang
- - 期望职位：Android技术专家，应用架构师
+ - 期望职位：全栈开发工程师
  - 期望城市：北京
 
 
