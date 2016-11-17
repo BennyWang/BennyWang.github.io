@@ -69,7 +69,7 @@ permalink: /resume/
 
 # 开源项目
 
-## Talk is cheap, so I choose to show you my code!
+## Talk is cheap, show me your code!
  - [KBinding](http://github.com/BennyWang/KBinding)：采用Kotlin实现的Android MVVM框架
  - [AutoAdapter](http://github.com/BennyWang/AutoAdapter)：简化Android开发中各种Adapter的创建的库
 
