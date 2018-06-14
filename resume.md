@@ -7,7 +7,7 @@ permalink: /resume/
 
 # 联系方式
 
-- 手机：15210360259
+- 手机：17603058109
 - Email：bxx.wang@outlook.com
 - QQ：574378323
 
