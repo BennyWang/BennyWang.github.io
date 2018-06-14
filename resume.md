@@ -29,7 +29,16 @@ permalink: /resume/
 
 # 工作经历
 
-## 合优智景（北京）科技有限公司 （ 2016年4月 ~ 至今 ）
+## 小源科技 （ 2017年3月 ~ 至今 ）
+
+### 智能短信SDK
+
+珠海市小源科技有限公司成立于2011年，是智慧短信概念的提出者和先行者。 公司推出的信析宝是一款SDK产品，包含短信品宣、短信菜单、短信黄页、卡片短信、短信弹窗/浮窗/通知栏、短信分类、短信卡夹、 智能穿戴等特色短信增值服务，可以和任何能获取手机短信的应用相结合，为企业提供系统级的智能服务分发及场景流量入口。
+
+主要负责短信SDK设计开发工作
+
+
+## 合优智景（北京）科技有限公司 （ 2016年4月 ~ 2017年3月 ）
 
 ### 智能终端机器人、儿童社交App
 
@@ -83,6 +92,7 @@ App分为家长端和玩具端，家长端支持Android，IOS平台，玩具端�
 ## Talk is cheap, show me your code!
  - [KBinding](http://github.com/BennyWang/KBinding)：采用Kotlin实现的Android MVVM框架
  - [AutoAdapter](http://github.com/BennyWang/AutoAdapter)：简化Android开发中各种Adapter的创建的库
+ - [DynamicView](http://github.com/BennyWang/DynamicView)：Android动态视图渲染库
 
 
 # 技能清单
