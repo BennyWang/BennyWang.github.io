@@ -17,11 +17,11 @@ permalink: /resume/
 
  - 王斌/男/1986
  - 本科/哈尔滨工程大学数学系
- - 工作年限：7年
+ - 工作年限：10年
  - 技术博客：http://bennywang.github.io
  - GitHub：http://github.com/BennyWang
  - 期望职位：软件开发工程师
- - 期望城市：北京
+ - 期望城市：深圳
 
 
 ---
