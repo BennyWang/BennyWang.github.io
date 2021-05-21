@@ -17,7 +17,7 @@ permalink: /resume/
 
  - 王斌/男/1986
  - 本科/哈尔滨工程大学数学系
- - 工作年限：10年
+ - 工作年限：12年
  - 技术博客：http://bennywang.github.io
  - GitHub：http://github.com/BennyWang
  - 期望职位：软件开发工程师
@@ -26,10 +26,30 @@ permalink: /resume/
 
 ---
 
+# 技能清单
+
+- 能独立完成 Android APP 开发，熟练掌握 Android 的 API，Android 版本兼容性处理，屏幕适配，数据存 储，文件操作，理解 Android 的体系结构，具备扎实的编程基础
+- 精通 Android 常用组件开发，理解 Android 中界面绘制，掌握自定义 View 及控件开发 
+- 精通多线程，掌握 Android 下网络通信机制，熟悉 Socket 通信、TCP/IP 和 Http
+- 熟练使用 Android 主流开源框架(RxJava2, Retrofit2, OkHttp, Glide等) 
+- 掌握音视频编解码和使用OpenGL进行视频渲染
+- 掌握 Android 性能优化方法，了解热修复和插件化
+- 了解 Android 下 MVP 和 MVVM 编程，并能够在实际开发中进行运用
+- 熟练使用 Java、Kotlin、C++，熟练掌握NDK开发
+
 
 # 工作经历
 
-## Insta360 （ 2019年11月 ~ 至今 ）
+## 百度 （2020年6月 ～ 至今）
+### 百度CarLife+ App版本迭代开发
+
+主要负责车机连接投屏模块、音乐模块开发和整体的架构设计
+
+- 有线连接方案分为AOA、ADB协议
+- 无线连接采用Wifi热点和Wifi Direct两种方案
+- 投屏采用Android的VirtualDisplay虚拟屏实现，采用OpenGL+MediaCodec实现渲染加编码功能
+
+## Insta360 （ 2019年11月 ~ 2020年6月 ）
 
 ### Android端全景相机APP开发
 
@@ -45,7 +65,6 @@ Insta360 影石创新是全球领先的全景影像品牌,Insta360 影石产品�
 珠海市小源科技有限公司成立于2011年，是智慧短信概念的提出者和先行者。 公司推出的信析宝是一款SDK产品，包含短信品宣、短信菜单、短信黄页、卡片短信、短信弹窗/浮窗/通知栏、短信分类、短信卡夹、 智能穿戴等特色短信增值服务，可以和任何能获取手机短信的应用相结合，为企业提供系统级的智能服务分发及场景流量入口。
 
 主要负责短信SDK设计开发工作
-
 
 ## 合优智景（北京）科技有限公司 （ 2016年4月 ~ 2017年3月 ）
 
@@ -104,12 +123,4 @@ App分为家长端和玩具端，家长端支持Android，IOS平台，玩具端�
  - [DynamicView](http://github.com/BennyWang/DynamicView)：Android动态视图渲染库
 
 
-# 技能清单
 
-
-- Android开发：Java/C++/Kotlin
-- Web开发：PHP/Laravel
-- 桌面开发：C/C++/C#/WPF
-- 数据库相关：MySQL/SQL Server/SQLite
-- 版本管理：Svn/Git
-- 单元测试：Junit/Robolectric
