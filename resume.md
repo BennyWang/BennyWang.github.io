@@ -16,7 +16,7 @@ permalink: /resume/
 # 个人信息
 
  - 王斌/男/1986
- - 本科/哈尔滨工程大学数学系（05级）
+ - 本科/哈尔滨工程大学数学系（2005年9月 ～ 2009年6月）
  - 工作年限：12年
  - 技术博客：http://bennywang.github.io
  - GitHub：http://github.com/BennyWang
@@ -32,9 +32,9 @@ permalink: /resume/
 - 精通 Android 常用组件开发，理解 Android 中界面绘制，掌握自定义 View 及控件开发 
 - 精通多线程，掌握 Android 下网络通信机制，熟悉 Socket 通信、TCP/IP 和 Http
 - 熟练使用 Android 主流开源框架(RxJava2, Retrofit2, OkHttp, Glide等) 
-- 掌握音视频编解码和使用OpenGL进行视频渲染
-- 掌握 Android 性能优化方法，了解热修复和插件化
-- 了解 Android 下 MVP 和 MVVM 编程，并能够在实际开发中进行运用
+- 熟练掌握音视频编解码和使用OpenGL进行视频渲染
+- 熟练掌握 Android 性能优化方法，了解热修复和插件化
+- 熟练掌握 Android 下 MVP 和 MVVM 编程，并能够在实际开发中进行运用
 - 熟练使用 Java、Kotlin、C++，熟练掌握NDK开发
 
 
